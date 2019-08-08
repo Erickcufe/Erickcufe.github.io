@@ -1,0 +1,7 @@
+---
+title: "Research"
+output: html_document
+---
+
+#### In the bachelor thesis participate as co-author of the article ["Protein complexes associated with β-catenin differentially influence the differentiation profile of neonatal and adult CD8+ T cells"](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcp.28502)
+

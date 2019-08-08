@@ -3,7 +3,9 @@ output_dir: "."
 navbar:
   title: "Erick Cuevas Fernandez"
   left:
-    - text: "Writing"
+    - text: "Home"
+      href: index.html
+    - text: "Research"
       href: research.html
     - text: "Speaking"
       href: talks.html
@@ -11,9 +13,9 @@ navbar:
       href: software.html
     - text: "Teaching"
       href: teaching.html
+    - text: "About Me"
+      href: about.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/Erickcufe
     - icon: fa-twitter fa-lg
@@ -23,4 +25,4 @@ navbar:
 output:
   html_document:
     theme: spacelab
-    css: 'styles.css'
+    css: style.css
