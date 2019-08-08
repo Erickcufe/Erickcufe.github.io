@@ -15,8 +15,6 @@ Self-taught, enthusiastic and passionate about learn more. Big data and Machine 
 
 I graduated from the [Universidad Autonoma del Estado de Morelos (UAEM)](http://www.cidc.uaem.mx) with a bachelor in science with specialty in Molecular Biology and Biochemistry in 2017, I completed my undergraduate thesis urder the advisement of [Dra. Angelica Santana Calderón](http://www.cidc.uaem.mx/angelicasantana/) . In 2018 I began a maester degree in Biochemical Science from  [Universidad Nacional Autonoma de México (UNAM)](http://www.mdcbq.posgrado.unam.mx/), where I am investigating single nucleotide polymorphisms associated with dementia using artificial intelligence under the advisement of [Dr. Heriberto Manuel Rivera](https://www.uaem.mx/organizacion-institucional/uploads/facultades/medicina/files/Dr.HeribertoManuelRivera.pdf) at UAEM, [Dra. Leonor Perez Martinez](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:leonor) and [Dr. Alejandro Garcia Rubio Granados](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:alejandro) at UNAM. I expect to graduate by the end of 2019.
 
-I am a well-known R enthusiast, including serving on the board and being an active member of [R Ladies NYC](http://www.rladiesnyc.org/). 
-
 My full CV is available [here](files/CV_2019.pdf).
 
 <img src="images/erick3.jpg"
