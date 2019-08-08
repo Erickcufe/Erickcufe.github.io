@@ -2,7 +2,7 @@
 ---
 
 
-<img src="images/erick.JPG"
+<img src="images/erick.jpg"
       align="middle"
       style= "border:10px solid; border-radius: 50%"/>
 <!-- <link rel="stylesheet" href="styles.css" type="text/css"/> -->
