@@ -2,7 +2,7 @@
 ---
 <img src="images/erick.jpg"
       align="middle"
-      style= "width:40%; border:10px solid"/>
+      style= "border:10px solid"/>
 <!-- <link rel="stylesheet" href="styles.css" type="text/css"/> -->
 
 <!-- <img src="images/erick.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> -->

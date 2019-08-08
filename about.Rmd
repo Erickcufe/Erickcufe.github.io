@@ -8,4 +8,3 @@ title: "About Me"
 
 <img src="images/erick2.jpg" align="bottom"/>
       
-<img style="float: right;" src="images/erick2.jpg">
