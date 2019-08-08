@@ -5,23 +5,26 @@
 <img src="images/erick.jpg"
       align="middle"
       style= "border:10px solid; border-radius: 50%"/>
-<!-- <link rel="stylesheet" href="styles.css" type="text/css"/> -->
-
-<!-- <img src="images/erick.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> -->
-<!-- <img src="images/erick.jpg" style="width:40%; border:10px solid; margin-right: 30px" align="left"> -->
-<!-- ![](images/erick.jpg, style="width:40%")  -->
-
-<!-- <img src="images/erick5.jpg" -->
-<!--       style= "width:40%; border:10px solid; margin-right: 15px" -->
-<!--       align="left"/> -->
-
-<p style='text-align: justify;'> **Self-taught**, **enthusiastic** and **passionate** about learn more. **Big data** and **Machine Learning**. Pharmaceutical Industrial Laboratory Technician and Undergraduate in Sciences with terminal area in **Biochemistry** and **Molecular Biology**. Currently a master's student in **Biochemical Sciences** of the National Autonomous University of Mexico [UNAM, Universidad Nacional Autónoma de México](http://www.mdcbq.posgrado.unam.mx/).</p> 
 
 
-<p style='text-align: justify;'> I graduated from the [Universidad Autonoma del Estado de Morelos (UAEM)](http://www.cidc.uaem.mx) with a bachelor in science with specialty in Molecular Biology and Biochemistry in 2017, I completed my undergraduate thesis urder the advisement of [Dra. Angelica Santana Calderón](http://www.cidc.uaem.mx/angelicasantana/) . In 2018 I began a maester degree in Biochemical Science from  [Universidad Nacional Autonoma de México (UNAM)](http://www.mdcbq.posgrado.unam.mx/), where I am investigating **single nucleotide polymorphisms** associated with **dementia** using **artificial intelligence** under the advisement of [Dr. Heriberto Manuel Rivera](https://www.uaem.mx/organizacion-institucional/uploads/facultades/medicina/files/Dr.HeribertoManuelRivera.pdf) at UAEM, [Dra. Leonor Perez Martinez](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:leonor) and [Dr. Alejandro Garcia Rubio Granados](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:alejandro) at UNAM. I expect to graduate by the end of 2019.</p>
 
-My full CV is available [here](files/CV_2019.pdf).
- 
+***
+<p style='text-align: center;'> **I'm Erick Cuevas Fernández, a Data Scientist.** </p> 
+
+<p style='text-align: center;'> **Scientist and Entrepreneur in training. Biochemical Sciences. Big data, Machine Learning and Mental Disorders. UNAM.** </p> 
+
+<p style='text-align: center;'> **Currently study a master degree in Biochemical Sciences at UNAM.** </p> 
+
+<p style='text-align: center;'> **I'm interested in Big data, Machine Learning and Mental Disorders** </p> 
+
+
+
+
+
+
+<img src="images/red.png"
+      align="middle"
+      style= "border:5px solid;  border-radius: 20%"/> 
 
       
 
