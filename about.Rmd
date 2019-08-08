@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-- __Name:__ Erick Cuevas 
+- __Name:__ Erick Cuevas Fernández
 - __Ocupation:__ "Posgrade student"
 - __Hobbies:__ Learning software development in R, machine learning and mental disorders. Cook, theater and dance "salsa" :D
 
-<img src="images/erick2.jpg" align="bottom"/>
+<img src="images/erick2.jpg" align="bottom" style="border-radius: 50%"/>
       
