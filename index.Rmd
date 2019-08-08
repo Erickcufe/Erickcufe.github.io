@@ -6,8 +6,8 @@
 <!-- <img src="images/erick.jpg" style="width:40%; border:10px solid; margin-right: 30px" align="left"> -->
 <!-- ![](images/erick.jpg, style="width:40%")  -->
 
-<img src="images/erick.jpg"
-      style= "width:40%; border:10px solid; margin-right: 30px"
+<img src="images/erick5.jpg"
+      style= "width:40%; border:10px solid; margin-right: 15px"
       align="left"/>
 
 
