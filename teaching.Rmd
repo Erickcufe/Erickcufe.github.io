@@ -7,7 +7,9 @@ title: "Teaching"
 **Material del curso:**
 
 - [Requisitos](https://github.com/Erickcufe/Curso-R-2019/blob/master/Requisitos.pdf) 
-- [Clase 1](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_introduccion.md)
+- **Clase 1**
+  - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_introduccion.md)
+  - Codigo:
 
 **Material extra:** 
 
