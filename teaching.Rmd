@@ -1,3 +1,18 @@
 ---
 title: "Teaching"
 ---
+
+### Curso R LBSyMT 2019
+
+**Material del curso:**
+
+- [Requisitos](https://github.com/Erickcufe/Curso-R-2019/blob/master/Requisitos.pdf) 
+- [Clase 1](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_introduccion.md)
+
+**Material extra:** 
+
+- [Advanced R; Hadley Wickham](https://adv-r.hadley.nz)
+- [R Packages; Hadley Wickham](http://r-pkgs.had.co.nz)
+- [R for Data Science; Hadley Wickham & Garret Grolemund](https://es.r4ds.hadley.nz/)
+- [R for Beginners; Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+- [R tutorial begginers](https://www.statmethods.net/r-tutorial/index.html)
