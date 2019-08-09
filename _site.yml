@@ -22,6 +22,8 @@ navbar:
       href: https://twitter.com/ErickCuevasF
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/erickcuevasf/
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/TOCAYO0
 output:
   html_document:
     theme: spacelab
