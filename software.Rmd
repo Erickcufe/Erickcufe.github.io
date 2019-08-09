@@ -1,3 +1,9 @@
 ---
 title: "Software"
 ---
+
+### Packages in development: 
+
+- [seekerBio](https://github.com/Erickcufe/seekerBio) a R package for gen/SNP search information  
+- [qualitycheck](https://github.com/Erickcufe/qualitycheck) a R package for the
+- co-author of [mxearthquakes](https://github.com/ComunidadBioInfo/mxearthquakes) a R package that shows the data of earthquakes in Mexico from 1900 to date.
