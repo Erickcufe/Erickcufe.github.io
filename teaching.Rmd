@@ -18,3 +18,8 @@ title: "Teaching"
 - [R for Data Science; Hadley Wickham & Garret Grolemund](https://es.r4ds.hadley.nz/)
 - [R for Beginners; Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 - [R tutorial begginers](https://www.statmethods.net/r-tutorial/index.html)
+
+**Cheat Sheets**
+
+- [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
+- [Data visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
