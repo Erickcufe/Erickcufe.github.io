@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-#### Curso R Laboratorio de Biología de Sistemas y Medicina Traslacional 2019
+#### Curso R Laboratorio de Biología de Sistemas y Medicina Translacional 2019
 
 **Material del curso:**
 
