@@ -13,6 +13,10 @@ title: "Teaching"
 - **Clase 2**
   - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_2.md)
   - [Material](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase-2.pdf)
+  
+- **Clase 3**
+  - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_3/Clase%203.md)
+  - [Material](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_3/Clase_3.pdf)
 
 **Material extra:** 
 
