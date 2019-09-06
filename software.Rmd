@@ -17,3 +17,10 @@ seekerBio::seeker_haploview("rs7412")
 
 - [**qualitycheck**](https://github.com/Erickcufe/qualitycheck) a R package for the organization of lots of pharmaceutical products
 - Co-author of [**mxearthquakes**](https://github.com/ComunidadBioInfo/mxearthquakes) a R package that shows the data of earthquakes in Mexico from 1900 to date.
+
+```{r}
+library(mxearthquakes)
+mxearthquakes::ploteq("Veracruz", 2003)
+```
+
+
