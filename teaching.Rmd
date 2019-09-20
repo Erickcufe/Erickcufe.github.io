@@ -17,6 +17,11 @@ title: "Teaching"
 - **Clase 3**
   - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_3/Clase%203.md)
   - [Material](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_3/Clase_3.pdf)
+  
+- **Clase 4**
+  - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_4/Actividades_clase4.md)
+  - [Material](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_4/ggplot2-cheatsheet.pdf)
+
 
 **Material extra:** 
 
