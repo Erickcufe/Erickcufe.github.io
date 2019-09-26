@@ -22,6 +22,10 @@ title: "Teaching"
   - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_4/Actividades_clase4.md)
   - [Material](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase_4/ggplot2-cheatsheet.pdf)
 
+- **Clase 5**
+  - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase5/Clase_5_functions.md)
+
+
 
 **Material extra:** 
 
