@@ -6,11 +6,11 @@ title: "Software"
 
 - [**seekerBio**](https://github.com/Erickcufe/seekerBio) a R package for gen/SNP search information  
 
-```{r}
+```{r echo=FALSE}
 seekerBio::seeker_snp_ld_plot("rs7412")
 ```
 
-```{r}
+```{r echo=FALSE}
 seekerBio::seeker_haploview("rs7412")
 ```
 
