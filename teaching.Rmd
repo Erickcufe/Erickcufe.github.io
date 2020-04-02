@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 ---
-
+***
 #### Curso R Laboratorio de Biología de Sistemas y Medicina Translacional 2019
 
 **Material del curso:**
@@ -25,8 +25,11 @@ title: "Teaching"
 - **Clase 5**
   - [Presentacion](https://github.com/Erickcufe/Curso-R-2019/blob/master/Clase5/Clase_5_functions.md)
 
+***
 
+#### Curso R Análisis Exploratorio de Datos 2020 
 
+***
 **Material extra:** 
 
 - [Advanced R; Hadley Wickham](https://adv-r.hadley.nz)
