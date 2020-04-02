@@ -24,9 +24,9 @@
 
 
 
-<img src="images/red.png"
-      align="middle"
-      style= "border:5px solid;  border-radius: 20%"/> 
+<!-- <img src="images/red.png" -->
+<!--       align="middle" -->
+<!--       style= "border:5px solid;  border-radius: 20%"/>  -->
 
       
 
