@@ -29,6 +29,14 @@ title: "Teaching"
 
 #### Curso R Análisis Exploratorio de Datos 2020 
 
+[*Requisitos*]("files/Requisitos.pdf")
+
+- [Introducción](https://www.youtube.com/watch?v=CJQUEcsz4Zk&t=8s)
+
+***
+
+#### Curso R Avanzado 2020 
+
 ***
 **Material extra:** 
 
