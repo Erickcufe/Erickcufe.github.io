@@ -29,13 +29,19 @@ title: "Teaching"
 
 #### Curso R Análisis Exploratorio de Datos 2020 
 
-[*Requisitos*]("files/Requisitos.pdf")
+- [*Requisitos*]("files/Requisitos.pdf")
 
-- [Introducción](https://www.youtube.com/watch?v=CJQUEcsz4Zk&t=8s)
+- [Introducción](https://youtu.be/CJQUEcsz4Zk)
+
+- [Introducción a Rstudio: Vectores y Listas](https://youtu.be/pSm5yq0LIHw)
+
+- [Manejo de Data Frame](https://youtu.be/Lwia2RyEBzY)
 
 ***
 
 #### Curso R Avanzado 2020 
+
+- [Subsetting avanzado]()
 
 ***
 **Material extra:** 
