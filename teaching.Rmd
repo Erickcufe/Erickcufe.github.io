@@ -41,7 +41,7 @@ title: "Teaching"
 
 #### Curso R Avanzado 2020 
 
-- [Subsetting avanzado]()
+- [Subsetting avanzado](https://youtu.be/RaTLklA12c4)
 
 ***
 **Material extra:** 
