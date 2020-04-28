@@ -37,6 +37,8 @@ title: "Teaching"
 
 - [Manejo de Data Frame](https://youtu.be/Lwia2RyEBzY)
 
+- [Análisis Exploratorio I: Limpieza de NA's, subsetting y Plots básicos](https://youtu.be/NdCTI7EZPpg)
+
 ***
 
 #### Curso R Avanzado 2020 
