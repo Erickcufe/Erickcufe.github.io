@@ -1,15 +1,12 @@
 ---
----
 
 
 <img src="images/erick7.jpg"
       align="middle"
       style= "border:10px solid; border-radius: 50%"/>
 
-
-
 ***
-<p style='text-align: center;'> **I'm Erick Cuevas Fernández, a Data Scientist.** </p> 
+<p style='text-align: center;'> **Data Scientist.** </p> 
 
 <p style='text-align: center;'> **Scientist and Entrepreneur in training.** </p> 
 

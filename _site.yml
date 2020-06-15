@@ -1,7 +1,7 @@
 name: "Erick Cuevas Fernandez"
 output_dir: "."
 navbar:
-  title: "Erick Cuevas Fernandez"
+  title: "ECF"
   left:
     - text: "Home"
       href: index.html
