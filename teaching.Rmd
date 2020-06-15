@@ -53,6 +53,10 @@ title: "Teaching"
 - [R for Data Science; Hadley Wickham & Garret Grolemund](https://es.r4ds.hadley.nz/)
 - [R for Beginners; Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 - [R tutorial begginers](https://www.statmethods.net/r-tutorial/index.html)
+- [Mastering Shiny](https://mastering-shiny.org)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Leaflet for R](https://rstudio.github.io/leaflet/)
 
 **Cheat Sheets**
 
