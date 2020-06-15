@@ -26,5 +26,5 @@ navbar:
       href: https://www.facebook.com/TOCAYO0
 output:
   html_document:
-    theme: spacelab
+    theme: journal
     css: style.css
