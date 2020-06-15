@@ -57,6 +57,8 @@ title: "Teaching"
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Leaflet for R](https://rstudio.github.io/leaflet/)
+- [Creating APIs in R with Plumber](https://www.rplumber.io/docs/index.html#web-apis)
+- [Initiating development of a chatbot](https://www.r-bloggers.com/initiating-development-of-a-chatbot-with-plumber-and-ngrok/)
 
 **Cheat Sheets**
 
