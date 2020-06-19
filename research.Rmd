@@ -16,11 +16,11 @@ I am currently developing software for the study of non-coding single nucleotide
 
 ***
 #### Experience
-- Laboratory of Systems Biology and Translational Medicine, UAEM - Master thesis development "Identification of biomarkers associated with dementia to propose a cellular system for study." Director: Dr. Heriberto Manuel Rivera. 2018-2020
-- Research Residency in the Laboratory of Cellular Immunology, UAEM - Bachelor thesis: "Evaluation of the association of CBP / β-catenin and p300 / β-catenin in the promoter regions of a selection of Wnt / β-catenin response genes". Director: Dr. Ma. Angélica Santana Calderón. 2016-2017
-- Laboratory of Viral Dynamics and Carcinogenesis, UAEM - Participation in the project Molecular typing of human papillomavirus in support of clinical diagnosis ”. Director: Dr. Raúl Peralta Rodríguez. 2016-2017
-- Research Stay, UNAM - "Identification and characterization of genes involved in the perception and processing of nociceptive signals in Drosophila melanogaster". Director: Dr. Enrique Reynaud Garza. 2014-2015.
-- Research Stay, UAEM - "ASYMETRIC SYNTHESIS OF AMONOPHOSPHONIC ACIDS". Chemical Research Center. 2012
+- Laboratory of Systems Biology and Translational Medicine, UAEM - Master thesis development **"Identification of biomarkers associated with dementia to propose a cellular system for study."** Director: Dr. Heriberto Manuel Rivera. 2018-2020
+- Research Residency in the Laboratory of Cellular Immunology, UAEM - Bachelor thesis: **"Evaluation of the association of CBP / β-catenin and p300 / β-catenin in the promoter regions of a selection of Wnt / β-catenin response genes"**. Director: Dr. Ma. Angélica Santana Calderón. 2016-2017
+- Laboratory of Viral Dynamics and Carcinogenesis, UAEM - Participation in the project **"Molecular typing of human papillomavirus in support of clinical diagnosis”**. Director: Dr. Raúl Peralta Rodríguez. 2016-2017
+- Research Stay, UNAM - **"Identification and characterization of genes involved in the perception and processing of nociceptive signals in Drosophila melanogaster"**. Director: Dr. Enrique Reynaud Garza. 2014-2015.
+- Research Stay, UAEM - **"ASYMETRIC SYNTHESIS OF AMONOPHOSPHONIC ACIDS"**. Chemical Research Center. 2012
 
 ***
 
@@ -30,3 +30,16 @@ I am currently developing software for the study of non-coding single nucleotide
 Third place winners of category B2 in the scientific poster contest. *Fernanda Anaid Villarreal Reyes* and *Oscar David Brito Bahena*. Advised by me and the researcher *Heriberto Manuel Rivera*
 
 <img src="images/verano.jpg" align="bottom" style="border-radius: 10%"/>
+
+***
+
+#### THE FUTURE OF INDIVIDUALIZED MEDICINE 2019
+
+###### Scripps Research Translational Institute
+
+I attended the annual Future of Genomic Medicine conference
+"The Future of Individualized Medicine conference will thus incorporate perspectives from the emerging fields of digital medicine, artificial intelligence and machine learning, behavioral science and others. This is truly a multidisciplinary forum designed to accelerate the transformation of medicine."
+
+<img src="images/11592.jpg" align="bottom" style="border-radius: 10%"/>
+
+
