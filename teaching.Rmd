@@ -71,4 +71,5 @@ title: "Teaching"
 - [RStudio community](https://community.rstudio.com)
 - [CDSB](https://comunidadbioinfo.github.io/es/#about)
 
+<img src="images/teach.jpg" align="bottom" style="border-radius: 10%"/>
 
