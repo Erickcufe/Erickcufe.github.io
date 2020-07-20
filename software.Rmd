@@ -4,16 +4,32 @@ title: "Software"
 
 ### Packages in development: 
 
+- [**hgdp**](https://github.com/Erickcufe/hgdp) a R Package with data cleaned from the Human Genome Diversity Panel (HGDP) dataset.
+ 
+##### Human Genome Diversity Panel (HGDP) dataset 
+
+```{r, echo=FALSE}
+library(hgdp)
+estudios <- hgdp::Summary_data
+library(leaflet)
+leaflet::leaflet() %>% 
+  leaflet::addTiles() %>% 
+  leaflet::addCircleMarkers(estudios$Longitude, estudios$Latitude,
+                            weight = 19, radius = 2, 
+                            fillOpacity = 0.9,
+                            color = "darkcyan",
+                            popup = paste(sep = " ", "HGDP", "<br/>",
+                                          "Population:", estudios$Population,"<br/>",
+                                          "Size:", estudios$n))
+
+```
+
+
 - [**seekerBio**](https://github.com/Erickcufe/seekerBio) a R package for gen/SNP search information  
 
 ```{r}
 seekerBio::seeker_snp_ld_plot("rs7412")
 ```
-
-```{r}
-seekerBio::seeker_haploview("rs7412")
-```
-
 
 - [**qualitycheck**](https://github.com/Erickcufe/qualitycheck) a R package for the organization of lots of pharmaceutical products
 - Co-author of [**mxearthquakes**](https://github.com/ComunidadBioInfo/mxearthquakes) a R package that shows the data of earthquakes in Mexico from 1900 to date.
