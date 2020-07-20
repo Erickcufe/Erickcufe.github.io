@@ -20,7 +20,7 @@ leaflet::leaflet() %>%
                             color = "darkcyan",
                             popup = paste(sep = " ", "HGDP", "<br/>",
                                           "Population:", estudios$Population,"<br/>",
-                                          "Size:", estudios$n))
+                                          "Sample Size:", estudios$n))
 
 ```
 
@@ -29,6 +29,10 @@ leaflet::leaflet() %>%
 
 ```{r}
 seekerBio::seeker_snp_ld_plot("rs7412")
+```
+
+```{r}
+seekerBio::seeker_haploview("rs7412")
 ```
 
 - [**qualitycheck**](https://github.com/Erickcufe/qualitycheck) a R package for the organization of lots of pharmaceutical products
