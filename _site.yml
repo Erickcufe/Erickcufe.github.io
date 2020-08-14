@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Research & Education"
       href: research.html
     - text: "Speaking"
       href: talks.html

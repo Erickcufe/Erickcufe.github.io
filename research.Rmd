@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research & Education"
 output: html_document
 ---
 ***
@@ -21,6 +21,26 @@ I am currently developing software for the study of non-coding single nucleotide
 - Laboratory of Viral Dynamics and Carcinogenesis, UAEM - Participation in the project **"Molecular typing of human papillomavirus in support of clinical diagnosis”**. Director: Dr. Raúl Peralta Rodríguez. 2016-2017
 - Research Stay, UNAM - **"Identification and characterization of genes involved in the perception and processing of nociceptive signals in Drosophila melanogaster"**. Director: Dr. Enrique Reynaud Garza. 2014-2015.
 - Research Stay, UAEM - **"ASYMETRIC SYNTHESIS OF AMONOPHOSPHONIC ACIDS"**. Chemical Research Center. 2012
+
+***
+#### Skills
+
+- Languages: Spanish (Native), English (IELTS), French (B1).
+- Programming/coding: Data analysis in R, Python, bash, JavaScript.
+- Laboratory skills in biochemistry and molecular biology.
+- Machine learning algorithms, molecular docking and protein modeling.
+- Experience creating R functions and packages.
+
+***
+
+### Education
+
+- **Universidad Nacional Autonoma de Mexico (UNAM)**, Mexico. 2017-2019
+M. Sc. Biochemical Sciences (Bioinformatics). Honorific Mention and nominated to Alfonso Caso's Medal. 
+- **Autonomous University of the State of Morelos (UAEM)**, Mexico. 2012-2017
+B.Sc. (Hons) Biochemistry and Molecular Biology
+- **Autonomous University of the State of Morelos (UAEM)**, Mexico. 2009-2012 
+Technical degree as Pharmaceutical Industrial Laboratory Technician. 
 
 ***
 

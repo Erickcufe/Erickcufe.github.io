@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 - __Name:__ Erick Cuevas Fernández
-- __Ocupation:__ Posgrade student
+- __Ocupation:__ PhD student
 - __Hobbies:__ Learning software development in R, machine learning and mental disorders. Cook, theater and dance "salsa".
 
 ***
