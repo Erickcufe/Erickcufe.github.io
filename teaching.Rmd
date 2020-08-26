@@ -59,6 +59,10 @@ title: "Teaching"
 - [Leaflet for R](https://rstudio.github.io/leaflet/)
 - [Creating APIs in R with Plumber](https://www.rplumber.io/docs/index.html#web-apis)
 - [Initiating development of a chatbot](https://www.r-bloggers.com/initiating-development-of-a-chatbot-with-plumber-and-ngrok/)
+- [Quick-R](https://www.statmethods.net)
+- [R Programming for Data Science by Roger Peng](https://bookdown.org/rdpeng/rprogdatascience/)
+- [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+- [Efficient R Programming](https://csgillespie.github.io/efficientR/)
 
 **Cheat Sheets**
 

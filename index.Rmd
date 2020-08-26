@@ -10,7 +10,7 @@
 
 <p style='text-align: center;'> **Scientist and Entrepreneur in training.** </p> 
 
-<p style='text-align: center;'> **Master degree in Biochemical Sciences at UNAM** </p> 
+<p style='text-align: center;'> **Masters degree in Biochemical Sciences at UNAM** </p> 
 
 <p style='text-align: center;'> **PhD student at UNAM** </p> 
 
