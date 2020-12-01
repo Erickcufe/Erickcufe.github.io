@@ -1,21 +1,20 @@
 ---
 
 
-<img src="images/erick7.jpg"
+<img src="images/erick8.jpg"
       align="middle"
       style= "border:10px solid; border-radius: 50%"/>
 
 ***
 <p style='text-align: center;'> **Biological Data Scientist.** </p> 
 
-<p style='text-align: center;'> **Scientist and Entrepreneur in training.** </p> 
-
 <p style='text-align: center;'> **Masters degree in Biochemical Sciences at UNAM** </p> 
 
 <p style='text-align: center;'> **PhD student at UNAM** </p> 
 
-<p style='text-align: center;'> **I'm interested in Big data, Machine Learning and Mental Disorders.** </p> 
+<p style='text-align: center;'> **I'm interested in Big data, Machine Learning and Psychiatric Disorders.** </p> 
 
+<p style='text-align: center;'> **[CDSB](https://comunidadbioinfo.github.io/es/) Board member** </p> 
 
 
 
