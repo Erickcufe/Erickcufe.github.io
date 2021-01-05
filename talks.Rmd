@@ -7,7 +7,12 @@ title: "Talks"
 - XXXII National Congress of Biochemistry. Ixtapa, Guerrero. - Oral presentation: **“Identification and Classification of Single Nucleotide Polymorphism associated with dementia through data mining and machine learning”**. 2018.
 - Refresher course for 8th semester nursing students. Oral presentation: **"Artificial intelligence"**. 2019.
 - Jornadas de bienvenida al semestre. Facultad de Nutrición UAEM. **"Inteligencia Artificial: ¿Realidad o ciencia ficción?"**. 2019
+- Mini Curso de la Red Mexicana de Bioinformatica. **[Introducción a R y RStudio](https://www.youtube.com/watch?v=rtyv49poP_k&feature=youtu.be)**. 2020
 
 ***
 
 <img src="images/confe.jpg" align="bottom" style="border-radius: 10%"/>
+
+***
+
+<img src="images/Mini_curso_dic.jpg" align="bottom" style="border-radius: 10%"/>
