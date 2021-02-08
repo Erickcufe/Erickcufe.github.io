@@ -3,8 +3,25 @@ title: "Software"
 ---
 
 ### Packages in development: 
+- [**starwarssay**](https://github.com/Erickcufe/starwarssay) an R package with ASCII art of Star Wars
+```{r}
+starwarssay::say("I'm Your Father", by = "darth_vader")  
+```
 
-- [**hgdp**](https://github.com/Erickcufe/hgdp) a R Package with data cleaned from the Human Genome Diversity Panel (HGDP) dataset.
+```{r}
+starwarssay::say("Prrrr", by = "R2D2") 
+```
+
+```{r}
+starwarssay::say("Arrested", by = "stormtrooper")
+```
+
+```{r}
+starwarssay::say("Imperial March", by = "at_at_walker")
+```
+
+
+- [**hgdp**](https://github.com/Erickcufe/hgdp) an R Package with data cleaned from the Human Genome Diversity Panel (HGDP) dataset.
  
 ##### Human Genome Diversity Panel (HGDP) dataset 
 

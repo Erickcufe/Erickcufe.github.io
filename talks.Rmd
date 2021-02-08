@@ -8,6 +8,8 @@ title: "Talks"
 - Refresher course for 8th semester nursing students. Oral presentation: **"Artificial intelligence"**. 2019.
 - Jornadas de bienvenida al semestre. Facultad de Nutrición UAEM. **"Inteligencia Artificial: ¿Realidad o ciencia ficción?"**. 2019
 - Mini Curso de la Red Mexicana de Bioinformatica. **[Introducción a R y RStudio](https://www.youtube.com/watch?v=rtyv49poP_k&feature=youtu.be)**. 2020
+- **[SNPverso y Demencia](https://speakerdeck.com/erickcf/snpverso-y-demencia-conectar-2021)**. [ConectaR 2021](https://conectar2021.github.io/ConectaR2021/agenda/). 
+- **[Presentación de Comunidades CDSB](https://speakerdeck.com/erickcf/cdsb-conectar-2021)**. [ConectaR 2021](https://conectar2021.github.io/ConectaR2021/agenda/)
 
 ***
 
@@ -16,3 +18,8 @@ title: "Talks"
 ***
 
 <img src="images/Mini_curso_dic.jpg" align="bottom" style="border-radius: 10%"/>
+
+***
+
+<img src="images/conectar.jpeg" align="bottom" style="border-radius: 10%"/>
+
