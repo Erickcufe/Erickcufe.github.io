@@ -6,7 +6,7 @@
       style= "border:10px solid; border-radius: 50%"/>
 
 ***
-<p style='text-align: center;'> **Biological Data Scientist.** </p> 
+<p style='text-align: center;'> **Bioinformatician** </p> 
 
 <p style='text-align: center;'> **Masters degree in Biochemical Sciences at UNAM** </p> 
 
