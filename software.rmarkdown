@@ -1,0 +1,70 @@
+---
+title: "Software"
+---
+
+
+### Packages in development: 
+- [**starwarssay**](https://github.com/Erickcufe/starwarssay) an R package with ASCII art of Star Wars
+
+```{r}
+starwarssay::say("I'm Your Father", by = "darth_vader")  
+```
+
+```{r}
+starwarssay::say("Prrrr", by = "R2D2") 
+```
+
+```{r}
+starwarssay::say("Arrested", by = "stormtrooper")
+```
+
+```{r}
+starwarssay::say("Imperial March", by = "at_at_walker")
+```
+
+
+
+- [**hgdp**](https://github.com/Erickcufe/hgdp) an R Package with data cleaned from the Human Genome Diversity Panel (HGDP) dataset.
+ 
+##### Human Genome Diversity Panel (HGDP) dataset 
+
+
+```{r, echo=FALSE}
+library(hgdp)
+estudios <- hgdp::Summary_data
+library(leaflet)
+leaflet::leaflet() %>% 
+  leaflet::addTiles() %>% 
+  leaflet::addCircleMarkers(estudios$Longitude, estudios$Latitude,
+                            weight = 19, radius = 2, 
+                            fillOpacity = 0.9,
+                            color = "darkcyan",
+                            popup = paste(sep = " ", "HGDP", "<br/>",
+                                          "Population:", estudios$Population,"<br/>",
+                                          "Sample Size:", estudios$n))
+
+```
+
+
+
+- [**seekerBio**](https://github.com/Erickcufe/seekerBio) a R package for gen/SNP search information  
+
+
+```{r}
+seekerBio::seeker_snp_ld_plot("rs7412")
+```
+
+```{r}
+seekerBio::seeker_haploview("rs7412")
+```
+
+
+- [**qualitycheck**](https://github.com/Erickcufe/qualitycheck) a R package for the organization of lots of pharmaceutical products
+- Co-author of [**mxearthquakes**](https://github.com/ComunidadBioInfo/mxearthquakes) a R package that shows the data of earthquakes in Mexico from 1900 to date.
+
+
+```{r}
+library(mxearthquakes)
+mxearthquakes::ploteq("Veracruz", 2003)
+```
+
